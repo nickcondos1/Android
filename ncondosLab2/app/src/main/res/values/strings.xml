@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ncondosLab2</string>
+    <string name="open_drawer">openDrawer</string>
+    <string name="close_drawer">closeDrawer</string>
+    <string name="action_about">About</string>
+
+    <array name = "names"><item>cindy</item><item>fred</item><item>kate</item>
+    <item>keith</item><item>matt</item><item>rickey</item></array>
+
+    <integer-array name="image_id"><item>@drawable/cindy</item><item>@drawable/fred</item>
+    <item>@drawable/kate</item><item>@drawable/keith</item><item>@drawable/matt</item><item>@drawable/rickey</item></integer-array>
+</resources>
+
